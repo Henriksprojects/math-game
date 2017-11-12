@@ -23,7 +23,6 @@ def choose_tabell(prompt):
         else:
             return tabell
             break
-    
 
 
 # print "tabell: %s" % tabell
